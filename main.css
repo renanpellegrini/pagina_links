@@ -112,4 +112,8 @@ footer {
     .lista-stillus ul li  {
         width: 330px;
     }
+
+    footer {
+        margin-top: 20px;
+    }
 }
