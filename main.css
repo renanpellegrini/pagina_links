@@ -88,6 +88,19 @@ ul {
     align-items: center;
 }
 
+footer {
+    position: fixed;
+    background-color: #000;
+    color: #ccc;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 8px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
 @media (max-width: 480px) {
     .lista-pessoal ul li,
     .lista-dev ul li,
