@@ -61,6 +61,10 @@ a {
     width: 400px;
 }
 
+.lista-pessoal {
+    padding-bottom: 40px;
+}
+
 li {
     list-style: none;
     padding: 5px;
