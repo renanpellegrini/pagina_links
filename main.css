@@ -58,7 +58,7 @@ a {
 .lista-fotografia ul li a,
 .lista-dev ul li a,
 .lista-stillus ul li a {
-    background-color: #fff;
+    background-color: transparent;
     color: #000;
     text-align: center;
     padding: 0px;
