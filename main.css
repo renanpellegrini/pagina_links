@@ -56,7 +56,8 @@ a {
 .lista-pessoal ul li a,
 .lista-fotografia ul li a,
 .lista-dev ul li a,
-.lista-stillus ul li a {
+.lista-stillus ul li a,
+.lista-dostto ul li a {
     background-color: transparent;
     color: #000;
     text-align: center;
@@ -66,7 +67,8 @@ a {
 .lista-pessoal ul li,
 .lista-dev ul li,
 .lista-fotografia ul li,
-.lista-stillus ul li {
+.lista-stillus ul li,
+.lista-dostto ul li {
     border: 1px solid #000;
     border-radius: 8px;
     max-width: 85%;
@@ -94,7 +96,8 @@ ul li img {
 .lista-dev,
 .lista-fotografia,
 .lista-pessoal,
-.lista-stillus {
+.lista-stillus,
+.lista-dostto {
     display: none;
 }
 
@@ -123,5 +126,4 @@ footer {
     .lista-stillus ul li  {
         width: 330px;
     }
-
 }

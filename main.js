@@ -19,6 +19,11 @@ $(document).ready(function() {
         $("#listaPessoal").slideToggle();
     });
 
+    $("#dostto").click(function() {
+        hideOtherSublists('#listaDostto');
+        $("#listaDostto").slideToggle();
+    });
+
     $("#stillus").click(function() {
         hideOtherSublists('#listaStillus');
         $("#listaStillus").slideToggle();
