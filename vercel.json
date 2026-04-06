@@ -1,8 +1,5 @@
 {
   "buildCommand": null,
   "outputDirectory": ".",
-  "framework": null,
-  "engines": {
-    "node": "24.x"
-  }
+  "framework": null
 }
